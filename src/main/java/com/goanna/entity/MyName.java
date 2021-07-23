@@ -2,9 +2,19 @@ package com.goanna.entity;
 
 public class MyName {
 
-    String name;
+	private final long id;
+	private final String content;
 
-    public MyName(String name) {
-        this.name = name;
-    }
+	public MyName(long id, String content) {
+		this.id = id;
+		this.content = content;
+	}
+
+	public long getId() {
+		return id;
+	}
+
+	public String getContent() {
+		return content;
+	}
 }

@@ -8,7 +8,7 @@ b. Thymeleaf
 
 c. HTML
 
-
+ANSWER B
 
 
 
@@ -23,7 +23,7 @@ c. @Service
 
 d. @Data
 
-
+ANSWER C
 
 
 
@@ -39,6 +39,9 @@ c. Add dependency inside build.gradle file
 D. All the above
 
 
+ANSWER D
+
+
 
 
 4. What is the dependency need to create a Spring boot web Application
@@ -52,7 +55,7 @@ c. spring-boot-maven-plugin
 
 d. spring-boot-html\
 
-
+ANSWER B
 
 5. Database Objects must be annotated with
 
@@ -66,7 +69,7 @@ c. @Column
 d. @Repository
 
 
-
+ANSWER B
 
 
 6. Which of the Following are true?
@@ -80,8 +83,7 @@ c. Methods annotated with @RestController automatically converts Outputs with HT
 
 d. All the Above
 
-
-
+ANSWER A
 
 
 
